@@ -496,4 +496,4 @@ The work demonstrates an iterative approach to modeling: establishing a baseline
 
 An equally important outcome is understanding the limits of the results. Strong regression performance and high classification accuracy do not automatically establish reliable real-world fault detection. The next step toward a more robust system would be to strengthen temporal evaluation, validate anomaly labels, and incorporate additional operational evidence.
 
-**Disclaimer:** This project is an educational and exploratory prototype. It is not a validated industrial fault-detection or predictive-maintenance system.
+
